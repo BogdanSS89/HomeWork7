@@ -2,7 +2,6 @@
 namespace MyLib
 {
     using namespace std;
-
     void InitArr(int arr[], int size)
     {
         for (int i = 0; i < size; i++)
